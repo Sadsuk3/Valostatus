@@ -1,6 +1,8 @@
 # Valostatus
 Valorant offline mode 
 ![image](https://github.com/Sadsuk3/Valostatus/assets/108662874/8bdcaede-b8b7-4949-bff9-bd8a5b6598e4)
+
+
 You want boost or grind ranks on valorant and appear online? With this program can stay hide when you play valorant 
 The program create a rule in windows defender for block with riot comunications server BUT VOICE CHAT STILL WORKING 
 
