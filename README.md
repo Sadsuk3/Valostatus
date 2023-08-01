@@ -2,7 +2,9 @@
 Valorant offline mode 
 
 
-![image](https://github.com/Sadsuk3/Valostatus/assets/108662874/8bdcaede-b8b7-4949-bff9-bd8a5b6598e4)
+![image](https://github.com/Sadsuk3/Valostatus/assets/108662874/43aabbb3-9762-4380-9a3a-1c04c3a8e910)
+
+![image](https://github.com/Sadsuk3/Valostatus/assets/108662874/c0b5af68-ce6c-44f2-a0c8-1b9a67df59cd)
 
 
 You want boost or grind ranks on valorant and appear online? With this program can stay hide when you play valorant 
